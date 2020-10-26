@@ -1,0 +1,112 @@
+.nav{
+	height: 100px;
+}
+
+a{
+	color: black;
+	margin-right: 10px;
+	margin-top: 30px;
+}
+
+a:hover{
+	color: black;
+	font-weight: bold;
+}
+
+#navBtn{
+	margin-right: 180px;
+	margin-top: 30px;
+	height: 40px;
+	width: 150px;
+	border-radius: 20px;
+}
+
+#cardList{
+	width: 700px;
+	height: 399px;
+	margin-right: 550px;
+	margin-top: 15px;
+}
+
+#col1Lands{
+	background-color: blue;
+	height: 399px;
+	margin-left: 14px;
+	margin-top: -9px;
+
+}
+
+#cardList2{
+	width: 400px;
+	height: 399px;
+	margin-right: 450px;
+	margin-top: 15px;
+}
+
+#cardList3{
+	width: 400px;
+	height: 250px;
+	margin-right: 300px;
+	margin-top: 15px;
+}
+
+.signUpForm{
+	background-color: white;
+	width: 500px;
+	height: 400px;
+	margin-left: 150px;
+	margin-top: 80px;
+	border-radius: 10px;
+}
+
+#bgId{
+	width: 1520px;
+	background-color: #0b29ad;
+    background-image: linear-gradient(225deg, #0b29ad 0%, #8207ad 69%);
+    clip-path: polygon(100% 0, 100% 90%, 0 100%, 0 0);
+}
+
+
+#names{
+	margin-top: -10px;
+    padding-top: 4%;
+}
+
+#names h3{
+    text-align: right;
+    font-size: 1.5rem;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#names ul{
+    list-style: none;
+    padding: 2% 2%;
+    width: 80%;
+    margin: 0 auto;
+}
+#names li{
+    display: inline;
+    font-size: 2rem;
+    margin: 0 2%;
+
+}
+
+.cards1{
+    background-color: rgb(238, 238, 238);
+    padding: 10% 0;
+    clip-path: polygon(100% 0, 100% 85%, 0 95%, 0 10%);
+}
+
+#contactBtn{
+	background-color: white;
+	border-color: white;
+	border:none;
+	padding: 15px;
+	margin-left: 10px;
+	border-radius: 30px;
+}
+
+#contactBtn:hover{
+    background-color: rgb(226, 220, 220);
+}
